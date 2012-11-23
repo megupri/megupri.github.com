@@ -4,7 +4,7 @@
   <title><![CDATA[Megu's Blog]]></title>
   <link href="http://megupri.github.com/atom.xml" rel="self"/>
   <link href="http://megupri.github.com/"/>
-  <updated>2012-11-23T20:44:38+09:00</updated>
+  <updated>2012-11-23T21:21:41+09:00</updated>
   <id>http://megupri.github.com/</id>
   <author>
     <name><![CDATA[Megu cat]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Test_eq]]></title>
+    <title type="html"><![CDATA[テスト]]></title>
     <link href="http://megupri.github.com/blog/2012/11/23/test-eq/"/>
     <updated>2012-11-23T20:07:00+09:00</updated>
     <id>http://megupri.github.com/blog/2012/11/23/test-eq</id>

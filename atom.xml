@@ -4,7 +4,7 @@
   <title><![CDATA[Megu's Blog]]></title>
   <link href="http://megupri.github.com/atom.xml" rel="self"/>
   <link href="http://megupri.github.com/"/>
-  <updated>2012-11-23T20:42:50+09:00</updated>
+  <updated>2012-11-23T20:44:38+09:00</updated>
   <id>http://megupri.github.com/</id>
   <author>
     <name><![CDATA[Megu cat]]></name>
@@ -12,5 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  Liquid error: incompatible character encodings: Windows-31J and UTF-8
+  
+  <entry>
+    <title type="html"><![CDATA[Test_eq]]></title>
+    <link href="http://megupri.github.com/blog/2012/11/23/test-eq/"/>
+    <updated>2012-11-23T20:07:00+09:00</updated>
+    <id>http://megupri.github.com/blog/2012/11/23/test-eq</id>
+    <content type="html"><![CDATA[<p>test</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test post]]></title>
+    <link href="http://megupri.github.com/blog/2012/11/23/test/"/>
+    <updated>2012-11-23T19:25:00+09:00</updated>
+    <id>http://megupri.github.com/blog/2012/11/23/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[テスト]]></title>
+    <link href="http://megupri.github.com/blog/2012/11/22/test/"/>
+    <updated>2012-11-22T20:40:00+09:00</updated>
+    <id>http://megupri.github.com/blog/2012/11/22/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[new-post]]></title>
+    <link href="http://megupri.github.com/blog/2012/11/22/new-post/"/>
+    <updated>2012-11-22T20:29:00+09:00</updated>
+    <id>http://megupri.github.com/blog/2012/11/22/new-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
 </feed>
